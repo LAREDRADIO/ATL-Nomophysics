@@ -14,3 +14,8 @@ Implementación del Algoritmo de Tensegridad Lógica (ATL) y el Factor T basado 
 
 ### Uso
 El código simula la respuesta del sistema ante perturbaciones de tipo OOD (Out-of-Distribution) para validar la resiliencia del Factor T[cite: 277, 312].
+
+## Documentación Oficial
+El desarrollo teórico completo, incluyendo el Criterio Ontológico Mínimo (COM) y la formalización del Factor T, se encuentra disponible en el siguiente enlace:
+
+* [Descargar Tratado: Tensegridad Ontológica en Modelos de Lenguaje (PDF)](https://github.com/LAREDRADIO/ATL-Nomophysics/blob/main/Tensegridad_Ontol%C3%B3gica_en_Modelos_de_Lenguaje__Arquitectura_Diosc%C3%BArica_y_el_Factor_T.pdf)
